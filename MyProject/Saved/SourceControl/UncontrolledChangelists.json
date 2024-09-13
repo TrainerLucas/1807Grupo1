@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Maps/Mapa.umap",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Maps/Cielo.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Maps/1071434415_0_71_1920_1278_1920x0_80_0_0_bec0563f02c88aebf05059519bb2b6fa.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Maps/istockphoto-1320976545-612x612.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Maps/istockphoto-453977019-612x612.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
