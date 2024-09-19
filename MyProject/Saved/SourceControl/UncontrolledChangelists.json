@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Blueprints/NewWidgetBlueprint.uasset"
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Blueprints/NewWidgetBlueprint.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Blueprints/Inventario.uasset"
 			]
 		}
 	]
