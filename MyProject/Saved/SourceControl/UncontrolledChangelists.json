@@ -8,12 +8,16 @@
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Blueprints/Inventario.uasset",
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset",
-				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/FPS_Weapon_Bundle/weapon_blueprint/BF_weapon.uasset",
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/weapon_blueprint/BF_weapon.uasset",
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/Animations/ABP_Player.uasset",
-				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/Animations/ABP_Mannequin.uasset",
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/Animations/BS_Movement.uasset",
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Input/IA_aim.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Input/Actions/IA_Aim.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Input/Actions/IA_Fire.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/FPS_Weapon_Bundle/weapon_blueprint/BF_weapon.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/Animations/ABP_Mannequin.uasset",
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Blueprints/NewWidgetBlueprint.uasset"
 			]
 		}
