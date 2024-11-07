@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/tu_puedes/Content/StarterContent/Props/MaterialSphere.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/tu_puedes/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/tu_puedes/Content/ThirdPerson/Blueprints/NewBlueprint.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/tu_puedes/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/tu_puedes/Content/ThirdPerson/Blueprints/Muevete.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/tu_puedes/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1.uasset"
+			]
+		}
+	]
+}
