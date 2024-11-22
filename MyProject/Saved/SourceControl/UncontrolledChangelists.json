@@ -5,23 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.uasset",
-				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset",
-				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
-				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
-				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/weapon_blueprint/BF_weapon.uasset",
-				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/Animations/ABP_Player.uasset",
-				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Input/Actions/Crouch.uasset",
-				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Input/IMC_Default.uasset",
-				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ka47/SK_KA47_X.uasset"
-=======
-				"C:/Users/Equipo/Documents/Unreal Projects/Grupo1-1807/MyProject/Content/NPC/Zombie/BP_Zombiee.uasset",
-				"C:/Users/Equipo/Documents/Unreal Projects/Grupo1-1807/MyProject/Content/ThirdPerson/Maps/NewWorld.umap",
-				"C:/Users/Equipo/Documents/Unreal Projects/Grupo1-1807/MyProject/Content/Carpeta_De-Aidan/User_INterface_Start.uasset",
-				"C:/Users/Equipo/Documents/Unreal Projects/Grupo1-1807/MyProject/Content/Carpeta_De-Aidan/AC_UserInterface.uasset"
->>>>>>> 7d8c77ad61942e557070866e2b9c29ac3ead8f44
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/inputs/IPM.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/inputs/BP_IMC.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/inputs/BP_IMC_es_para_practicar.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/inputs/input_de_practica.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/BPs/Coin.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/BPs/bd8ee4686ddbb6afc130d9155e9d183b67377213.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/BPs/bd8ee4686ddbb6afc130d9155e9d183b67377213_Mat.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/BPs/blank-template-for-gold-coin-or-medal-with-metal-texture-isolated-transparent-png.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/BPs/blank-template-for-gold-coin-or-medal-with-metal-texture-isolated-transparent-png_Mat.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/W1/QM6ID34F3WYP7FGKEECQFP.uasset"
 			]
 		}
 	]
