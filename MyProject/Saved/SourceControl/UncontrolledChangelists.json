@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+				"C:/Users/Equipo/Documents/Unreal Projects/Grupo1-1807/MyProject/Content/NPC/Zombie/BP_Zombiee.uasset",
+				"C:/Users/Equipo/Documents/Unreal Projects/Grupo1-1807/MyProject/Content/ThirdPerson/Maps/NewWorld.umap",
+				"C:/Users/Equipo/Documents/Unreal Projects/Grupo1-1807/MyProject/Content/Carpeta_De-Aidan/User_Interface_Start.uasset",
+				"C:/Users/Equipo/Documents/Unreal Projects/Grupo1-1807/MyProject/Content/Carpeta_De-Aidan/AC_UserInterface.uasset",
+				"C:/Users/Equipo/Documents/Unreal Projects/Grupo1-1807/MyProject/Content/Carpeta_De-Aidan/WBP_OpcionDeDialogo.uasset"
+=======
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/inputs/BP_IMC_es_para_practicar.uasset",
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/inputs/input_de_practica.uasset",
@@ -13,6 +20,7 @@
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/BPs/bd8ee4686ddbb6afc130d9155e9d183b67377213_Mat.uasset",
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/BPs/blank-template-for-gold-coin-or-medal-with-metal-texture-isolated-transparent-png.uasset",
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/BPs/blank-template-for-gold-coin-or-medal-with-metal-texture-isolated-transparent-png_Mat.uasset",
+<<<<<<< HEAD
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/W1/QM6ID34F3WYP7FGKEECQFP.uasset",
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/VFX/VFX_Sparks.uasset",
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/Bullets/BP_Bullet.uasset",
@@ -72,6 +80,10 @@
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/enemies/BP_robot_generador_de_minas.uasset",
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/inputs/IPM.uasset",
 				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/inputs/BP_IMC.uasset"
+=======
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/W1/QM6ID34F3WYP7FGKEECQFP.uasset"
+>>>>>>> 9efc7c33a042418690d0074d98fa8d725c5df958
+>>>>>>> 6c821757b2e95b40a66d91938b5a868ac47c3979
 			]
 		}
 	]
