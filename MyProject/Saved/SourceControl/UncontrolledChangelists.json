@@ -5,7 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset"
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/Bullets/BP_Bullet.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/NPC/Zombie/BP_Zombiee.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/VFX/NewNiagaraSystem1.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/VFX/particulas_de_zombie.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/enemies/BOSS_exterminator.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/enemies/hulk_Material.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/enemies/Hulk_BOSS.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/ThirdPerson/Maps/NewWorld.umap",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/enemies/Hulk.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/enemies/hulk_01.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/enemies/hulk_01_normal.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/enemies/Hulk_PhysicsAsset.uasset",
+				"D:/Users/PC-BUILD/Documents/Unreal Projects/ola/MyProject/Content/Carpeta_De_Gero/enemies/Hulk_Skeleton.uasset"
 			]
 		}
 	]
